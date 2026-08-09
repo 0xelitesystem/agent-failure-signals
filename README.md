@@ -45,6 +45,10 @@ Multi-agent systems (one LLM coordinating multiple LLM workers) have an addition
 
 See [CONTRIBUTING.md](CONTRIBUTING.md). New patterns must include detection signals and at least one mitigation strategy.
 
+## More
+
+Part of a catalog of single-file browser tools and plain-language references, all MIT licensed and dependency-free: [0xelitesystem.github.io](https://0xelitesystem.github.io/). Built by [elitesystem.ai](https://elitesystem.ai).
+
 ## License
 
 MIT.
