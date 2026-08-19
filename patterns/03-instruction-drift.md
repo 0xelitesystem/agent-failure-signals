@@ -19,10 +19,10 @@ The agent is not ignoring instructions intentionally. The instructions have effe
 
 For each instruction in the system prompt, define a programmatic check:
 
-- "respond in JSON" → parse each response as JSON; flag failures
-- "cite every claim" → count claims and citations per response; ratio should stay high
-- "no financial advice" → keyword search for advice patterns
-- "respond in under 200 words" → word count
+- "respond in JSON" -> parse each response as JSON; flag failures
+- "cite every claim" -> count claims and citations per response; ratio should stay high
+- "no financial advice" -> keyword search for advice patterns
+- "respond in under 200 words" -> word count
 
 Run these on every step. The drift point in the trace is usually visible: instructions held for steps 1 to 7, broke at step 8.
 

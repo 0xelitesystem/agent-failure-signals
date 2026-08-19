@@ -56,9 +56,9 @@ Add 2 to 3 worked examples of tool selection at the top of the system prompt:
 
 ```
 Examples:
-- "What is my last invoice?" → query_customer_database
-- "How do I cancel my subscription?" → search_help_articles
-- "Show me the rate limit policy" → search_help_articles
+- "What is my last invoice?" -> query_customer_database
+- "How do I cancel my subscription?" -> search_help_articles
+- "Show me the rate limit policy" -> search_help_articles
 ```
 
 This calibrates the model's default behavior.
