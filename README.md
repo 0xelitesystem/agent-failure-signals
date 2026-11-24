@@ -1,4 +1,4 @@
-# agent-failure-modes
+# agent-failure-signals
 
 The recurring ways LLM agents fail in production, with detection signals and mitigations for each.
 
@@ -55,8 +55,8 @@ MIT.
 
 ## Related
 
-- [agent-trace-viewer](https://github.com/0xelitesystem/agent-trace-viewer) - inspect agent traces to find these patterns
-- [agentic-workflow-patterns](https://github.com/0xelitesystem/agentic-workflow-patterns) - design patterns to prevent these failures
+- [agent-trace-flamegraph](https://github.com/0xelitesystem/agent-trace-flamegraph) - inspect agent traces to find these patterns
+- [coding-agent-work-patterns](https://github.com/0xelitesystem/coding-agent-work-patterns) - design patterns to prevent these failures
 - [ai-coding-prompt-recipes](https://github.com/0xelitesystem/ai-coding-prompt-recipes) - prompt structures that reduce agent failures in coding tasks
 - [rag-evaluation-rubrics](https://github.com/0xelitesystem/rag-evaluation-rubrics) - eval methods for the generation step
 - [vibe-coding-anti-patterns](https://github.com/0xelitesystem/vibe-coding-anti-patterns) - related anti-patterns in code-generating agents
