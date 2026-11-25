@@ -60,4 +60,4 @@ MIT.
 - [ai-coding-prompt-recipes](https://github.com/0xelitesystem/ai-coding-prompt-recipes) - prompt structures that reduce agent failures in coding tasks
 - [rag-evaluation-rubrics](https://github.com/0xelitesystem/rag-evaluation-rubrics) - eval methods for the generation step
 - [vibe-coding-anti-patterns](https://github.com/0xelitesystem/vibe-coding-anti-patterns) - related anti-patterns in code-generating agents
-- [prompt-injection-test-suite](https://github.com/0xelitesystem/prompt-injection-test-suite) - the safety side; covers attacks not in this list
+- [prompt-injection-attack-corpus](https://github.com/0xelitesystem/prompt-injection-attack-corpus) - the safety side; covers attacks not in this list
